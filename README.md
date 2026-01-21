@@ -16,7 +16,7 @@ A high-performance backend system for tracking daily habits, calculating streaks
 ## ⚙️ Setup & Run
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/habit-tracker.git](https://github.com/YOUR_USERNAME/habit-tracker.git)
+    git clone [https://github.com/Suryaguptaa/habit-tracker.git](https://github.com/Suryaguptaa/habit-tracker.git)
     ```
 2.  **Configure MySQL**
     * Create a database named `habit_tracker_db`.
